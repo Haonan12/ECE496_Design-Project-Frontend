@@ -1,0 +1,16 @@
+[
+
+  {
+    "index": 1,
+    "question": "Sort the following functions from asymptotically smallest to asymptotically largest, indicating ties if there are any: n^2.5 n^1/2 n+10 10n 100n n^2 logn Show the mathematics to prove your work.? "
+  },
+  {
+    "index": 2,
+    "question": "For the following two parts, explain in English how your algorithm works, justify its correctness and its running time. Partial credit will be awarded for less efficient solutions. An array of n elements contains all but one of the integers from 1 to n + 1. (a) Give the best algorithm you can for determining which number is missing if the array is sorted, and analyze its asymptotic worst-case running time."
+  },
+  {
+    "index": 3,
+    "question": "Give the best algorithm you can for determining which number is missing if the array is not sorted, and analyze its asymptotic worst-case running time."
+  }
+
+]
